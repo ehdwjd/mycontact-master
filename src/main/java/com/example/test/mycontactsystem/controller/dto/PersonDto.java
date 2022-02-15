@@ -17,4 +17,5 @@ public class PersonDto {
     private LocalDate birthday;
     private String job;
     private String phoneNumber;
+    private String name2;
 }
